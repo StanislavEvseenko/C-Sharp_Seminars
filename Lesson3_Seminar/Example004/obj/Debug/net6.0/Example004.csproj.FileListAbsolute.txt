@@ -1,0 +1,15 @@
+D:\GB\3. Programming Lang\Lesson3_Seminar\Example004\bin\Debug\net6.0\Example004.exe
+D:\GB\3. Programming Lang\Lesson3_Seminar\Example004\bin\Debug\net6.0\Example004.deps.json
+D:\GB\3. Programming Lang\Lesson3_Seminar\Example004\bin\Debug\net6.0\Example004.runtimeconfig.json
+D:\GB\3. Programming Lang\Lesson3_Seminar\Example004\bin\Debug\net6.0\Example004.dll
+D:\GB\3. Programming Lang\Lesson3_Seminar\Example004\bin\Debug\net6.0\Example004.pdb
+D:\GB\3. Programming Lang\Lesson3_Seminar\Example004\obj\Debug\net6.0\Example004.csproj.AssemblyReference.cache
+D:\GB\3. Programming Lang\Lesson3_Seminar\Example004\obj\Debug\net6.0\Example004.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\3. Programming Lang\Lesson3_Seminar\Example004\obj\Debug\net6.0\Example004.AssemblyInfoInputs.cache
+D:\GB\3. Programming Lang\Lesson3_Seminar\Example004\obj\Debug\net6.0\Example004.AssemblyInfo.cs
+D:\GB\3. Programming Lang\Lesson3_Seminar\Example004\obj\Debug\net6.0\Example004.csproj.CoreCompileInputs.cache
+D:\GB\3. Programming Lang\Lesson3_Seminar\Example004\obj\Debug\net6.0\Example004.dll
+D:\GB\3. Programming Lang\Lesson3_Seminar\Example004\obj\Debug\net6.0\refint\Example004.dll
+D:\GB\3. Programming Lang\Lesson3_Seminar\Example004\obj\Debug\net6.0\Example004.pdb
+D:\GB\3. Programming Lang\Lesson3_Seminar\Example004\obj\Debug\net6.0\Example004.genruntimeconfig.cache
+D:\GB\3. Programming Lang\Lesson3_Seminar\Example004\obj\Debug\net6.0\ref\Example004.dll
