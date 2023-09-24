@@ -24,4 +24,4 @@ int aY = InputNum("Ввести координату aY: ");
 int bX = InputNum("Ввести координату bX: ");
 int bY = InputNum("Ввести координату bY: ");
 
-Console.WriteLine(PointDistance(aX, aY, bX, bY));
+Console.WriteLine(Math.Round(PointDistance(aX, aY, bX, bY), 2));
