@@ -1,0 +1,15 @@
+D:\GB\3. Programming Lang\Lesson4_HW\HW03\bin\Debug\net6.0\HW03.exe
+D:\GB\3. Programming Lang\Lesson4_HW\HW03\bin\Debug\net6.0\HW03.deps.json
+D:\GB\3. Programming Lang\Lesson4_HW\HW03\bin\Debug\net6.0\HW03.runtimeconfig.json
+D:\GB\3. Programming Lang\Lesson4_HW\HW03\bin\Debug\net6.0\HW03.dll
+D:\GB\3. Programming Lang\Lesson4_HW\HW03\bin\Debug\net6.0\HW03.pdb
+D:\GB\3. Programming Lang\Lesson4_HW\HW03\obj\Debug\net6.0\HW03.csproj.AssemblyReference.cache
+D:\GB\3. Programming Lang\Lesson4_HW\HW03\obj\Debug\net6.0\HW03.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\3. Programming Lang\Lesson4_HW\HW03\obj\Debug\net6.0\HW03.AssemblyInfoInputs.cache
+D:\GB\3. Programming Lang\Lesson4_HW\HW03\obj\Debug\net6.0\HW03.AssemblyInfo.cs
+D:\GB\3. Programming Lang\Lesson4_HW\HW03\obj\Debug\net6.0\HW03.csproj.CoreCompileInputs.cache
+D:\GB\3. Programming Lang\Lesson4_HW\HW03\obj\Debug\net6.0\HW03.dll
+D:\GB\3. Programming Lang\Lesson4_HW\HW03\obj\Debug\net6.0\refint\HW03.dll
+D:\GB\3. Programming Lang\Lesson4_HW\HW03\obj\Debug\net6.0\HW03.pdb
+D:\GB\3. Programming Lang\Lesson4_HW\HW03\obj\Debug\net6.0\HW03.genruntimeconfig.cache
+D:\GB\3. Programming Lang\Lesson4_HW\HW03\obj\Debug\net6.0\ref\HW03.dll
