@@ -1,5 +1,6 @@
 ﻿// создание двумерного массива размера m на n. 
 // замена строк и столбцов
+Console.Clear();
 
 int InputNum(string message)
 {
