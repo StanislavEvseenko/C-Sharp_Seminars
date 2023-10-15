@@ -1,0 +1,15 @@
+D:\GB\3. Programming Lang\Lesson8_HW\HW2\bin\Debug\net6.0\HW2.exe
+D:\GB\3. Programming Lang\Lesson8_HW\HW2\bin\Debug\net6.0\HW2.deps.json
+D:\GB\3. Programming Lang\Lesson8_HW\HW2\bin\Debug\net6.0\HW2.runtimeconfig.json
+D:\GB\3. Programming Lang\Lesson8_HW\HW2\bin\Debug\net6.0\HW2.dll
+D:\GB\3. Programming Lang\Lesson8_HW\HW2\bin\Debug\net6.0\HW2.pdb
+D:\GB\3. Programming Lang\Lesson8_HW\HW2\obj\Debug\net6.0\HW2.csproj.AssemblyReference.cache
+D:\GB\3. Programming Lang\Lesson8_HW\HW2\obj\Debug\net6.0\HW2.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\3. Programming Lang\Lesson8_HW\HW2\obj\Debug\net6.0\HW2.AssemblyInfoInputs.cache
+D:\GB\3. Programming Lang\Lesson8_HW\HW2\obj\Debug\net6.0\HW2.AssemblyInfo.cs
+D:\GB\3. Programming Lang\Lesson8_HW\HW2\obj\Debug\net6.0\HW2.csproj.CoreCompileInputs.cache
+D:\GB\3. Programming Lang\Lesson8_HW\HW2\obj\Debug\net6.0\HW2.dll
+D:\GB\3. Programming Lang\Lesson8_HW\HW2\obj\Debug\net6.0\refint\HW2.dll
+D:\GB\3. Programming Lang\Lesson8_HW\HW2\obj\Debug\net6.0\HW2.pdb
+D:\GB\3. Programming Lang\Lesson8_HW\HW2\obj\Debug\net6.0\HW2.genruntimeconfig.cache
+D:\GB\3. Programming Lang\Lesson8_HW\HW2\obj\Debug\net6.0\ref\HW2.dll
